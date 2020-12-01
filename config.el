@@ -59,4 +59,3 @@
 
 ;; Python interpreter
 (setq python-shell-interpreter "C:/Users/giamm/AppData/Local/Programs/Python/Python39/python.exe")
-;;:w
