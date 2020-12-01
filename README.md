@@ -1,2 +1,4 @@
 # Doom-Emacs
-Doom Emacs Config
+This is my Doom Emacs config
+
+*** under development ***
