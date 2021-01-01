@@ -5,7 +5,7 @@ This is my Doom Emacs configuration
 
 * Install Doom Emacs as reported [here](https://github.com/hlissner/doom-emacs)
 * Clone the repository in your home directory - <code>git clone https://github.com/Giammy2094/.doom.d.git</code>
-* The directory consists in three configuration files
+* The directory has in three configuration files
   1. <code>config.el</code>
   2. <code>init.el</code>
   3. <code>config.el</code>
